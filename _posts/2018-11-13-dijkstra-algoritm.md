@@ -23,7 +23,7 @@ categories: algoritm
 
 ## 알고리즘
 
-![graph.png](../assets/graph.png)
+![graph.png](/assets/graph.png)
 
 1. 출발점으로 부터의 최단거리를 저장할 배열 DIST를 만들고 모든 노드를 미방문(큰 값: Ingeter.MAX_VALUE)) 상태로 표시한다.
 
