@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://lamoshalt811.github.io/sitemap.xml
