@@ -3,6 +3,7 @@ layout: post
 title:  "Dijkstra algoritm"
 date:   2018-11-13 01:23:17 +0900
 categories: algoritm
+tags: [Dijkstra, algoritm]
 ---
 
 # Dijkstra algoritm (다익스트라 알고리즘)
