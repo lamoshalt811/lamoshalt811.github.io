@@ -4,15 +4,27 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# About Lamos
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+![logo](/assets/lamos.png)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+### Work Experience
 
+- Nov/2016 - preset : Software Architect, Samsugn SDS - Seoul, South Korea
+  - [AngelTalk](http://www.angeltalk.info), Java Android
 
-[jekyll-organization]: https://github.com/jekyll
+- Mar/2014 - Sep/2016 : Software Developer, Samsung SDS - Seoul, South Korea
+  - Samsung Medical Center's appointment system, Delphi
+  - Management Web Console, ExtJS 
+- Previous Experiences:
+  - CERT Team in Republic of Korea Army, 22 months in 2009-2011
+  - Teaching C & Java language, 24 months in 2007-2009
+
+### Side projects
+
+- none
+
+### Education
+
+- 2014 B.Eng. in Computer Engineering, Chungbuk National University
+
