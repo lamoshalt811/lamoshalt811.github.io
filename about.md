@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# About Lamos
-
 ![logo](/assets/lamos.png)
 
 ### Work Experience
